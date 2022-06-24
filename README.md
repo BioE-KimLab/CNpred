@@ -10,6 +10,7 @@ pip install tensorflow==2.5.0
 pip install nfp==0.3.0  # Must be 0.3.0 !
 conda install -c conda-forge rdkit
 ```
+Web-based model prediction is available at: https://cn.ml.nrel.gov
 
 For more info, see our publication:
 TBA
