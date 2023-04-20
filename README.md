@@ -13,5 +13,6 @@ conda install -c conda-forge rdkit
 Web-based model prediction is available at: https://cn.ml.nrel.gov
 
 For more info, see our publication:
-TBA
+"Physics-informed graph neural networks for predicting cetane number with systematic data quality analysis"
+https://doi.org/10.1016/j.proci.2022.09.059
 
